@@ -1,2 +1,2 @@
-# friendsensor
-Friend Sensor Implementation
+# socialsensor
+Social Sensor Project
