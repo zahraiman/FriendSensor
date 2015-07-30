@@ -1,4 +1,4 @@
-/Users/zahraiman/University/Eclipse/FriendSensor_git/src/main/java/edu/oregonstate/hadoop/SampleHadoopClass.java
-/Users/zahraiman/University/Eclipse/FriendSensor_git/src/main/java/edu/oregonstate/spark/BenchMarkTask.java
-/Users/zahraiman/University/Eclipse/FriendSensor_git/src/main/java/edu/oregonstate/spark/ReadOutputParquets.java
-/Users/zahraiman/University/Eclipse/FriendSensor_git/src/main/java/edu/oregonstate/spark/GroupLagTime.java
+/Users/zahraiman/University/git/friendsensor/src/main/java/edu/oregonstate/spark/datafilter/BenchMarkTask.java
+/Users/zahraiman/University/git/friendsensor/src/main/java/edu/oregonstate/spark/outputfilter/ReadOutputParquets.java
+/Users/zahraiman/University/git/friendsensor/src/main/java/edu/oregonstate/spark/sensor/GroupLagTime.java
+/Users/zahraiman/University/git/friendsensor/src/main/java/edu/oregonstate/hadoop/SampleHadoopClass.java

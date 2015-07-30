@@ -1,4 +1,4 @@
-package edu.oregonstate.spark;
+package edu.oregonstate.spark.outputfilter;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;

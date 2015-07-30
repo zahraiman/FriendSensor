@@ -1,4 +1,4 @@
-package edu.oregonstate.spark;
+package edu.oregonstate.spark.datafilter;
 
 
 import com.twitter.Extractor;
